@@ -1,6 +1,6 @@
 # 3D-cell-PG-test
 
-1.點右上方的SF 選擇資料夾
+1.點右上方的Select Folder 選擇資料夾
 
 2.點下拉式選單選擇處理方式
 
