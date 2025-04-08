@@ -1,7 +1,7 @@
 # 3D-cell-PG-test
 
 ## 1.點右上方的Select Folder選擇資料夾    
-![image](https://github.com/user-attachments/assets/633ebb22-9a72-429f-badc-66b250c6333d)
+![image](https://github.com/user-attachments/assets/e1c590bc-2be9-4b01-bb46-5099c27f33da)
 ![image](https://github.com/user-attachments/assets/a7ad59a0-6056-4848-a459-8075127dca1d)
 ### 選完後會原始圖片會直接顯示左側  
 ![image](https://github.com/user-attachments/assets/7486c416-7a31-424e-8927-39a068b06fc4)
